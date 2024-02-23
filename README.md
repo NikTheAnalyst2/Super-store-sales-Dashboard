@@ -1,9 +1,9 @@
 ## Super-store-sales-Dashboard
 
-###Objective:
+### Objective:
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on regions analysis,to provide valuable insights and accurate measures.
 
-###Description:
+### Description:
 1. Dashboard creation: Identify the KPI's, design and itutive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
 
 2. Data Analysis: Provide Valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
